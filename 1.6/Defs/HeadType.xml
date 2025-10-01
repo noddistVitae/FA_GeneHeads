@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_HeavyJaw</defName>
+		<texPath>Things/Pawn/HeavyJaw</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Jaw_Heavy</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_Gaunt</defName>
+		<texPath>Things/Pawn/WasterHead</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Head_Gaunt</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinAverage1</defName>
+		<texPath>Things/Pawn/FurskinAverage1</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinAverage2</defName>
+		<texPath>Things/Pawn/FurskinAverage2</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinAverage3</defName>
+		<texPath>Things/Pawn/FurskinAverage3</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<!--FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinGaunt</defName>
+		<texPath>Things/Pawn/FurskinGaunt</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+			<li>Head_Gaunt</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef-->
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinNarrow1</defName>
+		<texPath>Things/Pawn/FurskinNarrow1</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinNarrow2</defName>
+		<texPath>Things/Pawn/FurskinNarrow2</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinNarrow3</defName>
+		<texPath>Things/Pawn/FurskinNarrow3</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<!--FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinWide1</defName>
+		<texPath>Things/Pawn/FurskinWide1</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+			<li>Jaw_Heavy</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinWide2</defName>
+		<texPath>Things/Pawn/FurskinWide2</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+			<li>Jaw_Heavy</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>NVFA_FurskinWide3</defName>
+		<texPath>Things/Pawn/FurskinWide3</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverride</shaderColorOverride>
+		<targetGeneDefs>
+			<li>Furskin</li>
+			<li>Jaw_Heavy</li>
+		</targetGeneDefs>
+	</FacialAnimation.HeadTypeDef-->
+
+</Defs>
